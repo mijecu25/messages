@@ -1,8 +1,8 @@
 # sqlplus
 
-[![Build Status](https://travis-ci.org/mijecu25/messages.svg?branch=master)](https://travis-ci.org/mijecu25/messages)
-[![Coverage Status](https://coveralls.io/repos/github/mijecu25/messages/badge.svg?branch=master)](https://coveralls.io/github/mijecu25/messages?branch=master)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mijecu25/messages/master/LICENSE)
+[![Build Status](https://travis-ci.org/mijecu25/messages.svg?branch=develop)](https://travis-ci.org/mijecu25/messages)
+[![Coverage Status](https://coveralls.io/repos/github/mijecu25/messages/badge.svg?branch=develop)](https://coveralls.io/github/mijecu25/messages?branch=develop)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mijecu25/messages/develop/LICENSE)
 
 Library with messages for debugging.
 
