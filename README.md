@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mijecu25/messages.svg?branch=develop)](https://travis-ci.org/mijecu25/messages)
 [![Coverage Status](https://coveralls.io/repos/github/mijecu25/messages/badge.svg?branch=develop)](https://coveralls.io/github/mijecu25/messages?branch=develop)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mijecu25/messages/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22messages%22)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mijecu25/messages/develop/LICENSE)
 
 Library with messages for debugging.
