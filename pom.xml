@@ -3,7 +3,7 @@
 
     <groupId>com.mijecu25</groupId>
     <artifactId>messages</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>messages</name>
     <description>Library with messages for debugging</description>
     <url>https://github.com/mijecu25/messages</url>
@@ -28,7 +28,7 @@
       	<connection>scm:git:git://github.com/mijecu25/messages.git</connection>
     	<developerConnection>scm:git:git@github.com:mijecu25/messages.git</developerConnection>
     	<url>https://github.com/mijecu25/messages</url>
-        <tag>messages-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
