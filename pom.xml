@@ -3,14 +3,14 @@
 
     <groupId>com.mijecu25</groupId>
     <artifactId>messages</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>messages</name>
     <description>Library with messages for debugging</description>
     <url>https://github.com/mijecu25/messages</url>
     <inceptionYear>2016</inceptionYear>
     <organization>
         <name>Mijecu25</name>
-        <url>http://www.mijecu25.com</url>
+        <url>http://www.mijecu25.com/software/messages/</url>
     </organization>
   
     <licenses>
